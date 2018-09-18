@@ -3,10 +3,10 @@ class Char
 {
 	public static void main(String[ ] arg)
 	{
-	int i;
+	int u;
 	Scanner sc=new Scanner(System.in);
-	i=sc.nextInt();
-	for (int j = 0; j < i; j++) {
+	u=sc.nextInt();
+	for (int j = 0; j < u; j++) {
 		 System.out.println("Hello");
 	}
 	
